@@ -1,0 +1,23 @@
+const fileSystem = require('fs');
+
+const content = `
+Node.js is a JavaScript runtime environment that allows developers to run JavaScript outside the browser.
+
+It is built on Chrome's V8 engine and is designed for scalable and efficient backend development.
+
+Main features of Node.js:
+- Asynchronous programming
+- Event-driven architecture
+- Non-blocking I/O operations
+- Fast execution
+
+Node.js is commonly used to build:
+- REST APIs
+- Web servers
+- Real-time applications
+- CLI tools
+
+Node.js also includes npm (Node Package Manager), which allows developers to install and manage external libraries and dependencies.
+`;
+
+fileSystem.writeFileSync('Text.doc', content);

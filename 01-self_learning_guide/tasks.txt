@@ -1,0 +1,6 @@
+
+        1. Learn Node.js
+        2. Build a backend Server
+        3. Connect to a database
+        4. Deploy the application
+    

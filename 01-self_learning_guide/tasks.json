@@ -1,0 +1,6 @@
+[   
+    {"text":"Learn Node.js","completed":false},
+    {"text":"Build a backend Server","completed":false},
+    {"text":"Connect to a database","completed":false},
+    {"text":"Deploy the application","completed":false}
+]
