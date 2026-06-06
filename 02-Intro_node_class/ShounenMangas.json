@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "One Piece",
+        "description": "Monkey D. Luffy sails the Grand Line in search of the legendary treasure One Piece.",
+        "creationDate": 1997,
+        "author": "Eiichiro Oda",
+        "inPublication": true
+    },
+    {
+        "id": 2,
+        "name": "Dragon Ball",
+        "description": "Goku embarks on adventures, trains relentlessly, and defends Earth from powerful foes.",
+        "creationDate": 1984,
+        "author": "Akira Toriyama",
+        "inPublication": false
+    },
+    {
+        "id": 3,
+        "name": "Naruto",
+        "description": "A young ninja dreams of becoming Hokage and earning the respect of his village.",
+        "creationDate": 1999,
+        "author": "Masashi Kishimoto",
+        "inPublication": false
+    },
+    {
+        "id": 4,
+        "name": "Hunter x Hunter",
+        "description": "Gon Freecss becomes a Hunter to search for his father and explore the unknown.",
+        "creationDate": 1998,
+        "author": "Yoshihiro Togashi",
+        "inPublication": true
+    },
+    {
+        "id": 5,
+        "name": "Fullmetal Alchemist",
+        "description": "Two brothers seek redemption after a forbidden alchemy experiment changes their lives forever.",
+        "creationDate": 2001,
+        "author": "Hiromu Arakawa",
+        "inPublication": false
+    },
+    {
+        "id": 6,
+        "name": "Bleach",
+        "description": "Ichigo Kurosaki gains Soul Reaper powers and battles supernatural threats.",
+        "creationDate": 2001,
+        "author": "Tite Kubo",
+        "inPublication": false
+    },
+    {
+        "id": 7,
+        "name": "Jujutsu Kaisen",
+        "description": "Yuji Itadori enters the world of jujutsu sorcerers to fight deadly curses.",
+        "creationDate": 2018,
+        "author": "Gege Akutami",
+        "inPublication": false
+    },
+    {
+        "id": 8,
+        "name": "My Hero Academia",
+        "description": "Izuku Midoriya strives to become the world's greatest hero in a superpowered society.",
+        "creationDate": 2014,
+        "author": "Kohei Horikoshi",
+        "inPublication": false
+    },
+    {
+        "id": 9,
+        "name": "Demon Slayer",
+        "description": "Tanjiro Kamado joins the Demon Slayer Corps after demons destroy his family.",
+        "creationDate": 2016,
+        "author": "Koyoharu Gotouge",
+        "inPublication": false
+    },
+    {
+        "id": 10,
+        "name": "Black Clover",
+        "description": "Asta seeks to become the Wizard King despite being born without magic.",
+        "creationDate": 2015,
+        "author": "Yuki Tabata",
+        "inPublication": true
+    }
+]

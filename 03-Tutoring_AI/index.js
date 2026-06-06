@@ -17,6 +17,8 @@ const server = http.createServer((req, res) => {
 
 import { listIA } from "./IA_list.js";
 
+
+/* Importing the File System module to handle file operations */
 const saveFile = () => {
   fs.writeFile("listIA.txt", JSON.stringify(listIA, null, 2),
   (err) => {
@@ -28,6 +30,8 @@ const saveFile = () => {
   })
 };
 
+
+/* Function to read the file and log the content to the console */
 const readFile = () => {
   
   fs.readFile("listIA.txt", "utf-8", (err, data) => {

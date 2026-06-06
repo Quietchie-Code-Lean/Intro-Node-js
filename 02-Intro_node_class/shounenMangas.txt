@@ -1,0 +1,70 @@
+
+    Name:One Piece
+    Author:Eiichiro Oda
+    Created:1997
+    Description:Monkey D. Luffy sails the Grand Line in search of the legendary treasure One Piece.
+    On emission:true   
+    
+
+    Name:Dragon Ball
+    Author:Akira Toriyama
+    Created:1984
+    Description:Goku embarks on adventures, trains relentlessly, and defends Earth from powerful foes.
+    On emission:false   
+    
+
+    Name:Naruto
+    Author:Masashi Kishimoto
+    Created:1999
+    Description:A young ninja dreams of becoming Hokage and earning the respect of his village.
+    On emission:false   
+    
+
+    Name:Hunter x Hunter
+    Author:Yoshihiro Togashi
+    Created:1998
+    Description:Gon Freecss becomes a Hunter to search for his father and explore the unknown.
+    On emission:true   
+    
+
+    Name:Fullmetal Alchemist
+    Author:Hiromu Arakawa
+    Created:2001
+    Description:Two brothers seek redemption after a forbidden alchemy experiment changes their lives forever.
+    On emission:false   
+    
+
+    Name:Bleach
+    Author:Tite Kubo
+    Created:2001
+    Description:Ichigo Kurosaki gains Soul Reaper powers and battles supernatural threats.
+    On emission:false   
+    
+
+    Name:Jujutsu Kaisen
+    Author:Gege Akutami
+    Created:2018
+    Description:Yuji Itadori enters the world of jujutsu sorcerers to fight deadly curses.
+    On emission:false   
+    
+
+    Name:My Hero Academia
+    Author:Kohei Horikoshi
+    Created:2014
+    Description:Izuku Midoriya strives to become the world's greatest hero in a superpowered society.
+    On emission:false   
+    
+
+    Name:Demon Slayer
+    Author:Koyoharu Gotouge
+    Created:2016
+    Description:Tanjiro Kamado joins the Demon Slayer Corps after demons destroy his family.
+    On emission:false   
+    
+
+    Name:Black Clover
+    Author:Yuki Tabata
+    Created:2015
+    Description:Asta seeks to become the Wizard King despite being born without magic.
+    On emission:true   
+    
