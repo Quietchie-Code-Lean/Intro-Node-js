@@ -1,0 +1,12 @@
+{
+  "name": "03-tutoring_ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "dev": "Node --watch App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
