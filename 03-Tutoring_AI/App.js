@@ -16,7 +16,7 @@ const PORT = 3004;
 
 const server = http.createServer((req,  res) => {
 
-    res.end('Hello Node.js World!');
+    res.end('Server is running and ready to handle requests!');
 
 });
 
@@ -32,6 +32,7 @@ const saveFile = () => {
 
 
 const readFile = () => { 
+
     fs.readFile("listIA.txt", "utf-8", (err, data)=> {
         if (err){
             console.error("Error reading file:", err);
@@ -41,13 +42,13 @@ const readFile = () => {
     });
 };
 
+
 readFile();
 
+
 server.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+    console.log(`Server is running on port http://localhost:${PORT}`);
 });
-
-
 
 
 saveFile();
